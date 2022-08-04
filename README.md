@@ -1,3 +1,3 @@
-# react-redux
+# react-redux-async
 
-App using react-redux example.
+Example of app using redux + redux-thunk
